@@ -40,7 +40,7 @@ The repository is structured as follows:
 ```
 /solution.py                     # Main script implementing the genetic algorithm for graph coloring
 /docs
-    /Project-description.pdf     # Description and explanation of the project
+    /Project-description.pdf     # Description of the project
     /Project-documentation.pdf   # Detailed documentation of the code and algorithm
 ```
 
