@@ -6,8 +6,8 @@ This project is an individual assignment for the "Artificial Intelligence and Ex
 
 ## Course Information
 
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Artificial Intelligence and Expert Systems (2023)
 - **Semester:** 6th
 
